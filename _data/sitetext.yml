@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to our Agency!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -21,14 +21,14 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "AI Workflows"
+        desc: "Create AI workflows to automate your business processes. We'll help you build the right workflows to keep you on track."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Data Analysis"
+        desc: "Make sense of your data with our expert data analysis services. We'll help you uncover insights and drive your business forward."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Mission Critical Dashboards"
+        desc: "Visibility on the right core metrics is critical to your success. We'll help you build the right dashboards to keep you on track."
         icon: fab fa-markdown
 
   portfolio:
