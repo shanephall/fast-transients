@@ -6,7 +6,7 @@
 #
 # How to use:
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
-
+ #find more at https://fontawesome.com/icons
 # English (default)
 # -----------------
 en: &DEFAULT_EN
@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "AI Workflows"
         desc: "Create AI workflows to automate your business processes. We'll help you build the right workflows to keep you on track."
-        icon: fa-solid fa-diagram-project #find more at https://fontawesome.com/icons
+        icon: fas fa-diagram-project
       - title: "Data Analysis"
         desc: "Make sense of your data with our expert data analysis services. We'll help you uncover insights and drive your business forward."
         icon: fas fa-laptop-code
