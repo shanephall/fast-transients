@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Agency!
-    text: It's Nice To Meet You
+    title: Welcome to The Agency
+    text: It's Time to Get Serious
     button: Tell Me More
     buttonlink: "#services"
 
@@ -42,13 +42,13 @@ en: &DEFAULT_EN
         role: "Founder"
         image: assets/img/team/shane.jpg
         social:
-          - url: https://linkedin.com/in/shanehall
+          - url: https://linkedin.com/in/shanephall
             icon: fab fa-linkedin-in
       - name: "Kurt Hallin"
         role: "Founding Partner"
         image: assets/img/team/kurt.jpg
         social:
-          - url: https://linkedin.com/in/kurt-hallin
+          - url: https://www.linkedin.com/in/kurt-hallin-b0503314/
             icon: fab fa-linkedin-in
       - name: "Brandon "
         role: "Partner"
