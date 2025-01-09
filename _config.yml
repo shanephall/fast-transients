@@ -14,10 +14,10 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+url    : "https://shanephall.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/fast-transients" # the subpath of your site, e.g. /blog
 
-title      : FAST TRANSIENTS LLC
+title      : Fast Transients LLC
 email      : shane@fasttransients.ai #this is also the email contact forms will go to
 description: "Empowering businesses with AI-driven solutions."
 author     : Shane Hall
@@ -30,8 +30,8 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 analytics:
   google: #Google Analytics tracking code here
 
-collections:
-  portfolio:
+# collections:
+#   portfolio: 
 
 markdown: kramdown
 
