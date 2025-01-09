@@ -94,19 +94,19 @@ en: &DEFAULT_EN
     people:
       - name: "Shane Hall"
         role: "Founder"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/shane.jpg
         social:
           - url: https://linkedin.com/in/shanehall
             icon: fab fa-linkedin-in
       - name: "Kurt Hallin"
         role: "Founding Partner"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/kurt.jpg
         social:
           - url: https://linkedin.com/in/kurt-hallin
             icon: fab fa-linkedin-in
       - name: "Brandon "
         role: "Partner"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/brandon.jpg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
