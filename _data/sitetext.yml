@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "AI Workflows"
         desc: "Create AI workflows to automate your business processes. We'll help you build the right workflows to keep you on track."
-        icon: fa-solid fa-diagram-project #find more at https://fontawesome.com/icons
+        icon: fas fa-diagram-project #find more at https://fontawesome.com/icons
       - title: "Data Analysis"
         desc: "Make sense of your data with our expert data analysis services. We'll help you uncover insights and drive your business forward."
         icon: fas fa-laptop-code
       - title: "Mission Critical Dashboards"
         desc: "Visibility on the right core metrics is critical to your success. We'll help you build the right dashboards to keep you on track."
-        icon: fa-solid fa-chart-line
+        icon: fas fa-chart-line
 
   team:
     title: "FOUNDING TEAM"
